@@ -1,0 +1,1480 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/65">
+    <dc:title>Map of Pueblo Lands of San Jose.
+</dc:title>
+    <dc:creator>Thompson, George H. (cartographer)</dc:creator>
+    <dc:subject>Land grants; Maps; Ranches
+
+</dc:subject>
+    <dc:description>Map of lands confirmed as belonging to the Pueblo of San Jose. After incorporation, these lands were sold by the city of San Jose to pay municipal debts. Relief is shown by hachures. Also shown are ranchos, streams, towns, tract numbers and survey landmarks. This map was originally published in Frederic Hall's 1871 publication, &quot;The History of San Jose and Surroundings.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1866-07
+1866;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+1 map; 49 x 40 cm.
+Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/66">
+    <dc:title>1872 Map of the Vicinity of San Jose.
+</dc:title>
+    <dc:creator>Britton &amp; Rey</dc:creator>
+    <dc:subject>Maps
+
+Hare, George H., d. 1875</dc:subject>
+    <dc:description>This map shows the central area of Santa Clara County surrounding the city of San Jose in 1872. It does not show large parts of eastern, northwestern, and southern Santa Clara County. It does show major roads, waterways, mines, and schools. This map was originally bound into the publication &quot;Hare's Guide to San Jose and Vicinity for Tourists and New Settlers.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1872
+1872;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+1 map: 47 x 37 cm.
+Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/67">
+    <dc:title>Map of the America Shaft at the New Almaden Quicksilver Mine.
+</dc:title>
+    <dc:creator>Schuette, Curt (cartographer)</dc:creator>
+    <dc:subject>Maps; Mercury mining
+New Almaden Quicksilver Mines (Calif.)
+</dc:subject>
+    <dc:description>Map of the shafts of the America Workings at the New Almaden Quicksilver Mine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1935
+1935;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+1 sheet; 28 x 43 cm.
+Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/68">
+    <dc:title>Map of Stanford University and vicinity.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Maps; Universities &amp; colleges
+Stanford University
+</dc:subject>
+    <dc:description>Map of Stanford University, Mayfield, and part of Palo Alto showings streets, university buildings, schools, government buildings, and railroad lines.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>circa 1920
+1915; 1916; 1917; 1918; 1919; 1920; 1921; 1922; 1923; 1924; 1925;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+1 map; 43 x 37 cm.
+Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source></dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>Palo Alto -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/69">
+    <dc:title>Map Of Santa Clara County.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/70">
+    <dc:title>Practical Horticulture and Viticulture / Back Numbers.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/71">
+    <dc:title>Map of Hamilton / Cambrian.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/72">
+    <dc:title>Map of &quot;&quot;The Willows.&quot;&quot;
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/73">
+    <dc:title>Map of part of Berryessa and Milpitas District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/74">
+    <dc:title>Map of Los Gatos and Vicinity.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/75">
+    <dc:title>Our County  No.4 Los Gatos and Vicinity.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/76">
+    <dc:title>and 1/2 acre peach trees? Los Gatos and San Jose Road.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/77">
+    <dc:title>The Action of Mulch.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/78">
+    <dc:title>Map of the Vicinity of Saratoga California.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/79">
+    <dc:title>Santa Clara Valley Map No. 6 Map of Cupertino.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/80">
+    <dc:title>Santa Clara Valley Map No. 7.  Map of Union District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/81">
+    <dc:title>Santa Clara Valley Map No. 8. Orchard District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/82">
+    <dc:title>Map of the Clara Valley Map No. 9. Jefferson School District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/83">
+    <dc:title>Santa Clara Valley Map No. 10. Vicinity of Lawrence Station.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/84">
+    <dc:title>Our County No. 11 The District West of the Town of Santa Clara.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/85">
+    <dc:title>In Santa Clara (brief text).
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/86">
+    <dc:title>Santa Clara Valley Map No. 11. District West of Santa Clara.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/87">
+    <dc:title>Our County No. 12 The Old Quito Rancho.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/88">
+    <dc:title>(continued from page 181.)  tion; Mataro, Grenache, Carigan and??
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/89">
+    <dc:title>Santa Clara Valley Map No. 12. Quito.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/90">
+    <dc:title>Our County No. 13 The Collins and Cupertino District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/91">
+    <dc:title>Santa Clara Valley Map No. 13. Collins and Cupertino District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/92">
+    <dc:title>Santa Clara Valley Map No. 14 Part II. Vicinity of Lincoln School.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/93">
+    <dc:title>Our County No. 15 Along the Eastern Foothills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/94">
+    <dc:title>Santa Clara County Map No. 15. Eastern Berryessa.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/95">
+    <dc:title>Our County No. 16. East of San Jose, Berryessa, Pala and Jackson School Districts.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/96">
+    <dc:title>Santa Clara Valley Map No. 16. East of San Jose.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/97">
+    <dc:title>Our County No. 17. Pala Rancho and the Foothills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/98">
+    <dc:title>Santa Clara Valley Map No. 17. Pala Rancho and Foothills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/99">
+    <dc:title>Our County No. 18. Evergreen-The Yerba Buena Hills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/100">
+    <dc:title>(continued from page 69.) yard; the trees are peach, apricot?
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/101">
+    <dc:title>Santa Clara Valley Map No. 18. Evergreen and the Yerba Buena Hills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/102">
+    <dc:title>Our County No. 19. Portions of the Collins and Mountain View Districts
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/103">
+    <dc:title>C.O. HOWES, San Francisco--79 acres;??.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/104">
+    <dc:title>Santa Clara Valley Map No. 19. Collins &amp; Mountain View.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/105">
+    <dc:title>Santa Clara Valley Map No. 20. Franklin District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/106">
+    <dc:title>Our County No. 21. The San Juan Bautista Hills.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/107">
+    <dc:title>ment of Calvary Cemetery? (brief text).
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/108">
+    <dc:title>Santa Clara Valley Map No. 21. The Almaden Road.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/109">
+    <dc:title>Unnamed Map with &quot;&quot;J. E. Abbot &quot;&quot; to the right of block outlined in red.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/110">
+    <dc:title>Our County No. 23. A Part of Jackson, Silver Creek??
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/111">
+    <dc:title>Santa Clara Valley No. 23. A Part of Jackson, Silver Creek and Evergreen Districts.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/112">
+    <dc:title>Patent Maple Sugar / Santa Clara Valley Bueeau of Information.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/113">
+    <dc:title>Our County. Saratoga Park.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/114">
+    <dc:title>Our County No. 24. (Continued).
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/115">
+    <dc:title>Map No. 24. Saratoga Park.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/116">
+    <dc:title>E SEASON'S VINTAGE?FOR  A LARGE GRAPE CROP WITH LOW PRICES.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/117">
+    <dc:title>Our County No. 25. Cambrian District.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/118">
+    <dc:title>(Continued from Page 85) C. Schofield--80 acres;??..
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/119">
+    <dc:title>Map No. 25 Santa Clara Valley.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/120">
+    <dc:title>Santa Clara Valley Map No. 26  South Mountain View &amp; San Antonio.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/121">
+    <dc:title>Our County No. 26. Fine Orchards and Vineyards.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/122">
+    <dc:title>Alex Gordon--100 acres, a recent purchase from??.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2001
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplmaps/id/123">
+    <dc:title>Brainard Agricultural Atlas.
+</dc:title>
+    <dc:creator>Brainard, Henry A. d. 1900</dc:creator>
+    <dc:subject>Agriculture; Maps; Farms
+
+</dc:subject>
+    <dc:description>Atlas of the major agricultural regions of Santa Clara County in the 1880s. This atlas does not cover urban areas, nor agricultural areas in the southern part of the county. Each regional map shows property lines, number of acres, and the name of the property owner. Some of the regional maps have supplemental information, describing the area in general and giving the kinds of crops grown on each property. The maps and supplemental information were originally published in issues of Pacific Tree and Vine Magazine.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1885-1890
+1885; 1886; 1887; 1888; 1889; 1890</dc:date>
+    <dc:type>Image
+Atlases</dc:type>
+    <dc:format>image/jpg2000
+[54] p.: maps
+Scanned as part of the Local History Digital Resources Project Grant, 2005-2006.; Scaled to 3000 pixels width. Grayscale strip cropped from image. Scanning outsourced to Northern Micrographics as part of the Local History Digital Resources Project, 2005-2006. Technical metadata is limited</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>SJPL California Room Map &amp; Atlas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Brainard Agricultural Atlas</dc:relation>
+    <dc:coverage>Santa Clara County -- California
+</dc:coverage>
+    <dc:rights>Material in the public domain. No restrictions on use. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+</rdf:RDF>

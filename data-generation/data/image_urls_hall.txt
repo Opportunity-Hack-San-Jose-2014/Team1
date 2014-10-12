@@ -1,0 +1,15 @@
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=jcgpanorama&CISOPTR=378&action=2&DMSCALE=5&DMWIDTH=512&DMHEIGHT=305&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=209&action=2&DMSCALE=15&DMWIDTH=492&DMHEIGHT=313&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=62&action=2&DMSCALE=10&DMWIDTH=500&DMHEIGHT=374&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjsuUA&CISOPTR=266&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=387&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=gordon&CISOPTR=1816&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=455&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=fla&CISOPTR=215&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=478&DMX=0&DMY=0&DMTEXT=halls!hall!hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=210&action=2&DMSCALE=15&DMWIDTH=473&DMHEIGHT=309&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=gordon&CISOPTR=1867&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=458&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=211&action=2&DMSCALE=15&DMWIDTH=487&DMHEIGHT=307&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjsuUA&CISOPTR=1010&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=435&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=gordon&CISOPTR=1376&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=455&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=180&action=2&DMSCALE=20&DMWIDTH=512&DMHEIGHT=413&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=sjplpc&CISOPTR=212&action=2&DMSCALE=15&DMWIDTH=479&DMHEIGHT=299&DMX=0&DMY=0&DMTEXT=hall&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=arbuckle&CISOPTR=959&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=353&DMX=0&DMY=0&DMTEXT=&DMROTATE=0
+http://digitalcollections.sjlibrary.org/utils/ajaxhelper/?CISOROOT=arbuckle&CISOPTR=452&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=368&DMX=0&DMY=0&DMTEXT=&DMROTATE=0

@@ -1,0 +1,1780 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/0">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A small girl sits in a cart decorated with flowers. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/1">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Banks; Buildings; Children; Flowers; Infants; Parades &amp; processions; Roses; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Spectators line First Street and Santa Clara Street near the Bank of America building to watch the Baby Parade. Babies are seated in decorated carriages; women are pulling or escorting these small floats. Banners, bunting and flags are on buildings and are strung across the streets. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language></dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/2">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A little girl wearing a bonnet and a party dress sits in a floral-decorated two-wheeled cart. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/3">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A baby sits in a float designed to look like a bathtub.  The Baby Parade was part of the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/4">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A child sits in a small cart decorated with flowers. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/5">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A baby sits on a patriotic-themed float named for Betsy Ross. Four boys stand to the side. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/6">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A baby sits in a cart decorated with flowers. She has what looks like a beach ball. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/7">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A little girl wearing a party dress sits in a cart decorated with flowers. An older girl is holding the cart's handle. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/8">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A baby wearing a bonnet sits in a cart decorated with flowers. A woman stands beside her, facing the camera. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/9">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Dogs; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A child and dog sit in a cart decorated with flowers for the Baby Parade. This was the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/10">
+    <dc:title>Fiesta de las Rosas Baby Parade Scrapbook photograph.
+</dc:title>
+    <dc:creator>Steiner, Frank J. (photographer)</dc:creator>
+    <dc:subject>Baby carriages; Children; Flowers; Infants; Parades &amp; processions; Roses
+
+</dc:subject>
+    <dc:description>A boy sits on a small wagon that has been decorated as a float for the Baby Parade. An American flag is attached to the float. This baby parade was part of the seventh annual Fiesta de las Rosas parade.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1932
+1932;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V350 Photo Scanner as an 800 dpi TIFF image in 16-bit Grayscale. Compressed into 8-bit, JPEG format and Auto Level image adjustment applied using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>1932 Fiesta de las Rosas Baby Parade Scrapbook.</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/11">
+    <dc:title>Cowgirls and cowboy on horses marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Cowboys; Cowgirls; Events; Flowers; Horses; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Three Mexican vaqueros on horseback marching in the parade. Two are cowgirls and one is a cowboy. The horses are decorated with flowers. Crowds of people are watching them. There are houses in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/12">
+    <dc:title>Boy Scouts marching in Fiesta de las Rosas parade holding banner.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Banners; Buildings; Children; Events; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Boy Scouts of America
+</dc:subject>
+    <dc:description>A total of nine Boy Scouts are marching in the parade. Six of the Boy Scouts are holding a banner that reads &quot;La Fiesta de las Rosas San Jose.&quot; Three other Boy Scouts are marching underneath the middle of the banner. Crowds of people are watching. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/13">
+    <dc:title>California Grays marching band in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>The California Grays marching band, followed by two drill platoons in parade. Crowds of people are watching them. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/14">
+    <dc:title>Queen's float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Title float on which the parade queen and her attendants are riding. Queen Emilia Lindeman is seated beneath an umbrella interwoven with sweet peas and roses and a pathway of ferns below. There are wide strips of red and white roses arranged in an alternating diamond design. Two huge trees covered with pink roses were placed on each side of the throne. The queen's attendants on the steps leading down from the throne were Miss Gilroy, Clara Filice; Miss Los Gatos, Phyllis Cole; Miss Saratoga, Lutheria Cunningham; Miss Morgan Hill, Alice Speele; Miss Palo Alto, Doretta Griffin; Miss Mountain View, Vera Dean; Miss Sunnyvale, Martha Carlson; Miss Los Altos, Alta Miller; Miss Santa Clara, Frances Weigand. Crowds of people are watching. There is a house and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/15">
+    <dc:title>Woodrow Wilson Junior High School band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Schools; Spectators; Streets; Women
+
+Woodrow Wilson Junior High School</dc:subject>
+    <dc:description>Woodrow Wilson Junior High School band marching in the parade. Crowds of people are watching them. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/16">
+    <dc:title>Howard Buffington driving horse drawn carriage in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Carriages &amp; coaches; Children; Events; Flowers; Horses; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Howard Buffington, 45-year-old &quot;Kewpie&quot; driving daughter Gertrude's horse drawn carriage decorated with flowers. He is holding the reins and is seated underneath an umbrella interwoven with flowers. Crowds of people are watching. There is a house in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/17">
+    <dc:title>Mercury Herald Junior Club float in the Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float was called &quot;The Court of Childhood&quot; and was dedicated to the spirit of youth. The queen of the float, Jean Floy Thomas, is seated at the top looking down from a throne with an arch made by a rope of flowers. There are fourteen other children other than the queen and all on the float are dressed in white. There are also what appear to be three fake doves sitting on branches at the front of the float. Crowds of people are watching.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/18">
+    <dc:title>Unidentified youth group in the Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Men; Motorcycles; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Unidentified youth group standing in formation. There is a man on a motorcycle leading them. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/19">
+    <dc:title>Safety float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>&quot;Safety first in school territory&quot; is the description accompanying this image. This float was entered by Captain William Emig, chief of the San Jose's traffic office at the time. Spelled out in flowers is a caption that says &quot;school zone 15 miles.&quot; Additionally, a speedometer six feet high, with an arrow pointed to the number 15 and made of flowers is featured on the float. The speedometer overlooks a mock playground with a slide and seesaw. Children are playing on the slide and seesaw. Crowds of people are watching. There is a house in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/20">
+    <dc:title>Stanford band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Spectators; Streets; Universities &amp; colleges; Women
+
+</dc:subject>
+    <dc:description>Stanford 100 piece band marching in parade. Crowds of people are watching. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Palo Alto -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/21">
+    <dc:title>Watsonville American Legion drum corps marching in Fiesta de las Rosas parade
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+American Legion
+</dc:subject>
+    <dc:description>Watsonville American Legion drum corps, Edward H. Lorenson Post Number 121, in blue and white uniforms with plated trench helmets. There are houses, cars, and crowds in the backgrounds.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Watsonville -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/22">
+    <dc:title>Santa Clara Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Ficticious characters; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>A Peter Pan themed float featured a fairy glen with toadstools massed with bachelor buttons, sweet peas, and marigolds. There are three young girls dressed as fairies in the rear of the float and a boy dressed as Peter Pan sits in the middle on a toadstool. A house and crowds of people form the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Santa Clara -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/23">
+    <dc:title>Willow Glen Improvement club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float, called &quot;Smilin' Through,&quot; featured Lena Linderman (sister of Emilia Linderman, the 1929 Fiesta de las Rosas parade queen) in an &quot;old-fashioned&quot; garden scene. At the rear of the float is a wall made of white roses. Two vases are on each end of the wall and also made of flowers. There are houses and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Willow Glen -- San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/24">
+    <dc:title>Pasadena Tournament of Roses float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+Tournament of Roses Association
+</dc:subject>
+    <dc:description>This float, called the &quot;Kingdom of Flowers,&quot; was designed as a Japanese pleasure barge and was described as representative of the languid beauty of Nippon. It was entered by the Pasadena Tournament of Roses, Inc. The float is banked with thousands of carnations, roses, sweet peas, corn-flowers, delphinium and huckleberries. The barge has a flower studded pergola and women are sitting in it. Crowds of people are watching. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Pasadena -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/25">
+    <dc:title>Oakland Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+Oakland Chamber of Commerce (Oakland, Calif.)
+</dc:subject>
+    <dc:description>This float, was called &quot;The Star of the West.&quot; It depicts a twilight scene and the rising of the stars, amidst which a maiden in evening gown is seated. There are four other women and two men also seated in the float. There are crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Oakland -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/26">
+    <dc:title>City of San Jose's float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Ficticious characters; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float's theme was &quot;Alice in Wonderland.&quot; Featuring thousands of roses and marigolds intertwined under the direction of Lloyd C. Maynard, City Superintendent of Parks at the time. There are also characters from Alice in Wonderland, including Alice and &quot;The Mad Hatter.&quot; There are houses and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/27">
+    <dc:title>Theodore Roosevelt Junior High School band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Schools; Spectators; Streets; Women
+
+Theodore Roosevelt Junior High School</dc:subject>
+    <dc:description>Theodore Roosevelt Junior High School band in parade. Crowds of people are watching them. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/28">
+    <dc:title>San Jose school department float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float, based on the book &quot;Whither Mankind,&quot; by historian Charles Austin Beard, symbolized international peace as realized through education. The float featured &quot;a battleship of peace&quot; with a mass of flowers, organ pipes used for a smoke stack, an airplane at the prow, depicting the future, and a group of children from various schools representing the nations of the world. The boat was built of white sweet peas, delphinium, and wild flowers. Crowds of people are watching them. There are houses and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/29">
+    <dc:title>Notre Dame High School float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+Notre Dame High School</dc:subject>
+    <dc:description>This float, called &quot;Rainbow of Gold,&quot; featured a pot of gold made of marigolds at the end of the rainbow. Three girls dressed in white stand in the middle underneath the rainbow.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/30">
+    <dc:title>Campbell High School band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Schools; Spectators; Streets; Women
+
+Campbell High School</dc:subject>
+    <dc:description>Campbell Union High School Band marching in parade. There are houses, crowds of people, and a line of cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Campbell -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/31">
+    <dc:title>Campbell High School float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Schools; Spectators; Streets; Women
+
+Campbell High School</dc:subject>
+    <dc:description>Campbell Union High School float called &quot;The Melting Pot.&quot; A large kettle massed in red, white and blue flowers represents the United States. A student dressed as &quot;Uncle Sam&quot; stands in the middle of the float. In the front and back of the float are students representing various nationalities. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Campbell -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/32">
+    <dc:title>Fresno Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Floats (Parades); Flowers; Women
+Fresno Chamber of Commerce
+</dc:subject>
+    <dc:description>This float was called &quot;Fresno Scenic Center of California,&quot; and was entered by the Fresno Chamber of Commerce. Representing a mountain scene, the float is steeped with ferns interwoven with mountain flowers, all of which were gathered in the hills. This float does not appear to be on The Alameda. There are three girls sitting on the float and several onlookers. In the background are houses and a field with cars parked. All of the girls have straw hats draped around their necks with rope.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Fresno -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/33">
+    <dc:title>Cupertino Union Grammer School, P.T.A and joint civic bodies' float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+Cupertino Union Grammar School</dc:subject>
+    <dc:description>This float, a scene from the play &quot;Midsummer Night's Dream,&quot; depicts a woodland scene with roses, ferns, a mass of wild flowers and sweet peas. In the middle are two youngs girls dressed as fairies and also some young boys (unknown what kind of costumes boys are wearing). There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Cupertino -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/34">
+    <dc:title>San Jose State Teachers College band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Children; Events; Marching bands; Men; Parades &amp; processions; Spectators; Streets; Universities &amp; colleges; Women
+San Jose State Teachers College
+</dc:subject>
+    <dc:description>San Jose State Teachers College 50 piece band marching in parade. There are houses, crowds of people, and a line of cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/35">
+    <dc:title>San Jose State Teachers College float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Horses; Men; Parades &amp; processions; Spectators; Streets; Universities &amp; colleges; Women
+San Jose State Teachers College
+</dc:subject>
+    <dc:description>This float, enterted by San Jose State Teachers College's associated students, and called &quot;The Horse of Troy,&quot; symbolized the courage and spirit of Sparta. The horse, which stood 14 feet high, was amassed with white roses and stood on a sled banked in roses varying in shade from deep red to pink. The float is pulled by men dressed in ancient Spartan costumes. The men are holding battle shields. Two men at the front hold a banner which says &quot;The Horse of Troy San Jose State Teachers College.&quot; There are houses, crowds of people, and a line of cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/36">
+    <dc:title>Sunnyvale American Legion and Rotary Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Airships; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+American Legion; Rotary International
+Rotary Club (Sunnyvale, Calif.)</dc:subject>
+    <dc:description>This float features a dirigible 22 feet long, covered with red and white roses. The dirigible was hooked onto a landing mast and overlooked a bank of greens, ferns, and other flowers. Spelled out in flowers on the side of the float is &quot;Airbase Sunnyvale.&quot; There are some onlookers in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Sunnyvale -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/37">
+    <dc:title>Lions Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Banners; Buildings; Children; Events; Floats (Parades); Flowers; Horses; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Lions International
+</dc:subject>
+    <dc:description>Lions Club float based on &quot;Ben Hur.&quot; Featured is a chariot decorated in red and white roses and led by four white horses. There is a man in the chariot holding the reins  Another man walks beside the float holding a banner that says &quot;Lions Club&quot; and a battle shield which says &quot;Ben Hur.&quot; He appears to be dressed as a Roman soldier. There are houses, crowds of people, and a line of cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/38">
+    <dc:title>Kiwanis Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Boats; Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Kiwanis International
+</dc:subject>
+    <dc:description>This float, shaped like an Egyptian barge, was based on &quot;Antony and Cleopatra.&quot; It was made from marigolds, corn-flowers, and delphinium. The people on the barge are dressed in period costumes. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/39">
+    <dc:title>San Jose Woman's Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+San Jose Woman's Club (Calif.)
+</dc:subject>
+    <dc:description>A miniature of the San Jose Woman's club-house was the theme of the float. Hawthornes were used to recreate the tiling of the building and red and white roses were used for the main body of the building. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/40">
+    <dc:title>San Jose Rotary Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Rotary International
+</dc:subject>
+    <dc:description>On this float there is a large golden gear, symbolic of Rotary International. The wheel was composed of marigolds and blue bachelor buttons with the name Rotary in white carnations imposed upon a field of blue flowers. There are crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/41">
+    <dc:title>Hollister Public Schools Band marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Parades &amp; processions; Schools; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>The Hollister public schools' band of 50 pieces marching down El Camino Real in San Jose, California. There are houses, crowds of people and cars in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Hollister -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/42">
+    <dc:title>Soroptimist Club of San Jose float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Soroptimist International
+</dc:subject>
+    <dc:description>This float is decorated with the Soroptimist Club emblem, a circular shield of yellow carnations with the letters &quot;Soroptimist&quot; in blue on the bottom. Within the circlular shield is a woman dressed in white with her arms spread wide like the letter &quot;T.&quot; There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/43">
+    <dc:title>Exchange Club of San Jose entry in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Automobiles; Buildings; Children; Events; Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This entry displays a decorated automobile bearing the Exchange Club's emblem on each side. There are six children sitting in the car with a man driving. They are all dressed in traditional Californio/Mexican costumes. There are houses and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/44">
+    <dc:title>Veterans of Foreign Wars of the United States float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Cannons; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Veterans of Foreign Wars of the United States
+</dc:subject>
+    <dc:description>This float features a six-inch cannon, which was presented to the local veterans by the government, and was covered with 7,400 roses by Major Randolph T. Zane of the Veterans of Foreign Wars of the United States. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/45">
+    <dc:title>Palo Alto Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+Chamber of Commerce (Palo Alto, Calif.)
+</dc:subject>
+    <dc:description>Presumably this float was entered by the Palo Alto Chamber of Commerce and featured thousands of bunches of sweet peas in more than 800 cans of water which kept the flowers fresh for hours. There is a girl sitting in the middle on a chair of flowers surrounded by four tiers of flowers. Crowds of people are watching.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Palo Alto -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/46">
+    <dc:title>Kappa Alpha Pi float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Fraternal organizations; Men; Parades &amp; processions; Spectators; Streets; Women
+Kappa Alpha Psi Fraternity
+</dc:subject>
+    <dc:description>San Jose chapter of Kappa Alpha Pi float displays the shield of the fraternity. The frame of the shield was made of green huckleberry and fern. The body of the emblem is a mass of marigolds, while in the center of the shield black gallex was used for the background of the letters K. A. Pi., which were in white carnations. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/47">
+    <dc:title>San Jose Science Club float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Retorts; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Equipment used in a chemistry laboratory portray modern science on this float. A man in Californio/Mexican costume on a horse is following the float. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/48">
+    <dc:title>Cathay Boys' band of San Francisco marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Marching bands; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>The 25 piece Cathay Boys' Band of San Francisco is shown leading the Alviso Chinese float. There are houses, a line of cars, and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; San Francisco -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/49">
+    <dc:title>Chinese float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float displays a miniature pagoda with three Chinese children standing on it. Two girls are standing underneath the pagoda dressed in white and one boy is standing in front of them. One individual is sitting underneath the pagoda (unknown if this individual is a child or adult). There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/50">
+    <dc:title>Camp Fire Girls float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+Camp Fire Girls
+</dc:subject>
+    <dc:description>This float was an &quot;Indian bark&quot; (a Native American basket). The main body of the bark is covered with large green leaves and a miniature cabin of bark to cover the driver of the car. There are several Camp Fire girls seated on the float. In the background is a house and crowds of people.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/51">
+    <dc:title>San Jose Hi-Y club entry in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Automobiles; Buildings; Children; Events; Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This entry is a decorated car on which marigolds were the predominant color, with the words &quot;Hi-Y&quot; in white flowers written on each side. There are several men seated in the car. In the background are houses and crowds of people.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/52">
+    <dc:title>Boys Scouts of America float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Boy Scouts of America
+</dc:subject>
+    <dc:description>This float, called &quot;Columbia,&quot; was made up of roses in the shape of a half cone. A Boy Scout kneels in front of a woman dressed in white. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/53">
+    <dc:title>YMCA float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Horses; Men; Parades &amp; processions; Spectators; Streets; Women
+YMCA of Santa Clara Valley
+</dc:subject>
+    <dc:description>This float, a Native American tepee, was made of various shades of yellow flowers, with the top made of white roses. The float is being pulled by a horse and has two boys sitting on the float dressed in Native American costumes. One boy role plays as an elder teaching the other boy how to shoot a bow and arrow. It depicts Hiawatha shooting his first arrow. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/54">
+    <dc:title>A. M. Mortensen, Inc. float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Guitars; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float, called &quot;Queen Violet Ray,&quot; has a huge circle in which green, white and violet flowers in the rear form the throne for Queen Violet Ray and her two attendents. Two female attendents in shorts are on either side of the the queen. In front of the queen are three women in black bathing suits with three men dressed in a mariachi-style costumes facing the women and are playing guitars. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/55">
+    <dc:title>Decorated automobile in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Automobiles; Buildings; Children; Events; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>It is unknown if this car was entered by an organization. The car is sparsely decorated with a banner of what appears to be bells with bows at the top. There are two children standing on the outside of the car hanging off the sides. The driver is not visible. Three women and one man are sitting in the vehicle. The woman nearest the front is holding a flowered tamborine. All the people are dressed in Californio/Mexican costumes. A United States flag hangs over the grill of the car. There are crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/56">
+    <dc:title>Second Street Merchants Association float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Guitars; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>The theme of this float, &quot;The Old Woman Who Lived in a Shoe,&quot; features marigolds, white carnations, and roses. Green moss was used on the base of the float. Two children are seated in the shoe and several other children are seated around the shoe on the float. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/57">
+    <dc:title>Normanden-Campen Company float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Normanden-Campen, at the time a dealer of Hudsons and Essex automobiles, entered this float decorated with roses and carnations. A girl sits in a flowered globe holding reins attached to the front of the float. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/58">
+    <dc:title>Los Gatos Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Percussion instruments; Spectators; Streets; Women
+Chamber of Commerce (Los Gatos, Calif.)
+</dc:subject>
+    <dc:description>This float called &quot;Puss 'n Boots&quot; was entered by the Los Gatos Chamber of Commerce and was based on the fairytale by the same name. It is a large boot covered with marigolds and poppies surrounded by greens and other flowers. On the float at the front is a vaquero playing a xylophone and directly behind are two children dressed as cats with a man in a sailor costume between them. In the very back of the float is the boot with another child dressed as a cat standing in the boot. Crowds of people are watching. There is a house in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Los Gatos -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/59">
+    <dc:title>San Jose Clearing House Bank's float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Banners; Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>This float has woman depicting &quot;Madame Butterfly&quot; with green wings outlined with pink carnations. There is a man in unknown-styled costume at the front of the float holding a banner that says &quot;Madame Butterfly.&quot; There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/60">
+    <dc:title>Richfield Oil Company float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Automobiles; Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+Richfield Oil Company
+</dc:subject>
+    <dc:description>This float displays the beacon stations of the Richfield Oil Company. Also on the float is a Richfield racing car made of carnations (a replica similar to the car used in the company's road advertising) as well as a miniature service station following Spanish architecture. One woman sits above the miniature service station at the back of the float and two other women sit below her. At the front of the float is a woman standing in a costume that appears to be a racing costume. There are houses in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/61">
+    <dc:title>Olmstead band performs on a float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Children; Events; Floats (Parades); Flowers; Marching bands; Men; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>The Olmstead Band sits on bleachers atop a float. There is a banner of green bearing the name &quot;Olmstead Band&quot; in white flowers is pictured. Young children dressed as members of the band are seated at the front of the float.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/62">
+    <dc:title>San Jose Merchants Association float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Oliver Moroso's play, &quot;Rose of the Rancho,&quot; was used as the theme of this float. It consists of a decorated arbor under which the titular Rose is seated looking forward over a green carpet of huckleberry toward a replica of an old-fashioned well. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/63">
+    <dc:title>California Nursery Company float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Weddings; Women
+California Nursery Co.
+</dc:subject>
+    <dc:description>This float was based on the wedding scene from the novel &quot;Ramona.&quot; It was entered by the California Nursery Company of Niles, California. The titular Ramona and her husband are standing in front of a small cottage.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/64">
+    <dc:title>San Jose Realty Board float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Covered wagons; Events; Floats (Parades); Flowers; Organizations; Parades &amp; processions; Spectators; Streets
+
+</dc:subject>
+    <dc:description>This float displays a covered wagon made of flowers. The top of the wagon and the wheels were made of white roses. On the top of the wagon interspersed red roses appear and the word &quot;Realtors&quot; is spelled out in white roses on the front and on the side &quot;The Covered Wagon&quot; is spelled out in the same. Visible in the background are some spectators and a building.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/65">
+    <dc:title>San Jose Scavanger Company float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Events; Floats (Parades); Flowers; Men; Musicians; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Six musicians in colorful fiesta costumes, played Italian and Spanish melodies while sitting atop the San Jose Scavenger Company's float, according to the official Fiesta de las Rosas program). Five men play accordians; one man sits at a set of drums. There are houses and crowds of people in the background. This float won second prize per the pennant posted on the base at front.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/66">
+    <dc:title>&quot;San Jose must have an airport this year.&quot;
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Airplanes; Buildings; Events; Floats (Parades); Flowers; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+
+</dc:subject>
+    <dc:description>Sponsored by the San Jose Chamber of Commerce, this float is an airplane made of green shrubs more than 20 feet long and a wing span of 19 feet. On the side of the fusilage is the name &quot;San Jose&quot; in white flowers. The fusilage was finished with sweet williams. Green huckleberry was used in decorating the wings. A propeller made of flowers was kept in constant motion. Two men standing on the street in front of the float hold a banner which says &quot;San Jose must have an airport this year.&quot; A boy sits in the pilot seat looking out. There is a house and spectators in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/67">
+    <dc:title>Mountain View American Legion float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+American Legion
+</dc:subject>
+    <dc:description>Mountain View American Legion float depicting a scene from a then popular play called &quot;Lightnin.&quot; The float depicts the exterior of the hotel in the play with pink and white roses. The float was dedicated to Mr. and Mrs. Bacon. Mr. Frank Bacon was author of the play. He and his wife were former residents of Mountain View. Crowds of people are watching.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Mountain View -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/68">
+    <dc:title>Citadel Number One Salvation Army band of Oakland marching in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Marching bands; Men; Organizations; Parades &amp; processions; Spectators; Streets; Women
+Salvation Army -- California
+</dc:subject>
+    <dc:description>The Citadel Number One Salvation Army band of Oakland in the parade. There are houses and crowds in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Oakland -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/69">
+    <dc:title>San Francisco Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Buildings; Children; Events; Floats (Parades); Flowers; Men; Parades &amp; processions; Spectators; Streets; Women
+San Francisco Chamber of Commerce
+</dc:subject>
+    <dc:description>This float, called &quot;The Girl of the Golden West,&quot; was described as representing the sunshine, glory and beauty of California. The float featured 18,000 marigolds and 6,000 long stem roses. A woman, Lou Theurkauf, personified an early Native American princess and Rose Henery was the titular &quot;girl&quot; of the golden west. There is a house and crowds of onlookers in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; San Francisco -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfdrc/id/70">
+    <dc:title>Salinas Chamber of Commerce float in Fiesta de las Rosas parade.
+</dc:title>
+    <dc:creator>Frank J. Steiner (photographer)</dc:creator>
+    <dc:subject>Banners; Buildings; Children; Cowboys; Events; Floats (Parades); Flowers; Horses; Men; Parades &amp; processions; Spectators; Streets; Women
+Salinas Chamber of Commerce
+</dc:subject>
+    <dc:description>This float represented the Salinas Rodeo from July 17 to July 21 and featured a grassy plain with two horses, covered with gladioli and leaves standing on each side of an original stuffed ox head. A man dressed as a cowboy sits on one of the horses while a young boy dressed as a cowboy sits atop the ox head. Another boy holds a Fiesta de las Rosas banner. There is a house and crowds of people in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1929-05-18
+1929;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS2.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Fiesta de las Rosas Collection</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Fiesta de las Rosas Photographic Album, 1929</dc:relation>
+    <dc:coverage>San Jose -- California; Salinas -- California
+</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+</rdf:RDF>

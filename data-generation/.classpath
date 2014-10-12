@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="mongo-java-driver-2.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="mongo-java-driver-2.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="json-io-2.7.1.jar"/>
+	<classpathentry kind="lib" path="java-json.jar"/>
+	<classpathentry kind="lib" path="jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="guava.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

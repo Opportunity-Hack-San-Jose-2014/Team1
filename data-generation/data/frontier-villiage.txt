@@ -1,0 +1,1930 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/124">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Two of the stunt men are facing each other holding guns, while two others look through the saloon doors. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/125">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Gunfights; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man is aiming a gun while another lies sprawled on the ground. Another stunt man is airborne and is about to fall down upon a table. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/126">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man is kneeling on the ground. Two stunt men wrestle with another stunt man over a bar. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/127">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Four stunt men stand facing each other. Two of the stunt men hold guns pointed at one another. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/128">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Two stunt men fight as one is sitting at a table watching. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/129">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man is leaping off a saloon bar. Two other stunt men are fighting over the bar, with one of them biting the other man's hand. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+3.5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/130">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man is lifting another stunt man up by his shirt while another watches on. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+3.5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/131">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man uses a shoe to hit another stunt man in the face over a saloon bar. Another stunt man is standing with his hands held up to his face. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/132">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man reaches over a saloon bar and hits another stunt man in the face. One stunt man is crouched over with his hands held up to his face while another holds a rifle by the barrell. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/133">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man hits another stunt man over the head with a crate with another stunt man crouching between them. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/134">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man has either hit, or is about to hit, another stunt man over the head with the butt end of a rifle while another stunt man crouches between them. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/135">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man falls to the ground on his knees. Another stunt man watches with his back to the camera holding a pointed gun. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/136">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Two stunt men wrestle with a knife next to a saloon bar. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/137">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man has just thrown a punch at a stunt man who is falling to the ground. In the background another stunt man is laying on the ground with only his leg showing. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/138">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man holds another stunt man from behind in a full nelson. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/139">
+    <dc:title>The Fall Guys performing stunt show at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Men; Stunt performers; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>One stunt man leaning over a saloon bar hits another stunt man's hand with a wooden board. Another stunt man's head is visible behind. This was performed in the Sagebrush outdoor amphitheater.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/140">
+    <dc:title>Costume characters Theodore the bear and Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore and Tumbleweed stand together with arms intertwined in front of trees.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/141">
+    <dc:title>Costume characters Theodore the bear and Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore and Tumbleweed stand together with arms intertwined in front of trees.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/142">
+    <dc:title>Costume characters Theodore the bear and Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore and Tumbleweed stand together side by side waving.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/143">
+    <dc:title>Costume characters Theodore the bear and Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore and Tumbleweed stand together holding hands.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/144">
+    <dc:title>Costume characters Theodore the bear and Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore and Tumbleweed stand together with arms around each other..</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/145">
+    <dc:title>Costume characters Theodore the bear and the Easter Bunny at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>Theodore and the Easter Bunny standing in front of the candy store waving.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/146">
+    <dc:title>Costume character Easter Bunny on the Merry-Go-Round at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Entertainers; Entertainment; Fictitious characters; Mascots; Merry-go-rounds
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>The Easter Bunny sitting on a carousel horse.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/147">
+    <dc:title>Costume characters Theodore the bear and the Easter Bunny on the Frontier Village Railroad.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Children; Entertainers; Entertainment; Fictitious characters; Mascots; Railroads
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>Theodore and the Easter Bunny hanging off the side of the train waving. Children are sitting in the train in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/148">
+    <dc:title>Costume characters Theodore the bear and the Easter Bunny sitting on grass at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Children; Entertainers; Entertainment; Fictitious characters; Mascots; Merry-go-rounds
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>Theodore and the Easter Bunny on grass near Merry-Go-Round with three children.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/149">
+    <dc:title>Costume characters Theodore the bear and the Easter Bunny at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Balloons (Novelties); Children; Entertainers; Entertainment; Fictitious characters; Mascots
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>Theodore bending over to pat the head of one child and another child walks by looking at the Easter Bunny. Balloons can be seen in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/150">
+    <dc:title>Costume characters Theodore the bear and the Easter Bunny at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Children; Entertainers; Entertainment; Fictitious characters; Mascots
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>Theodore and the Easter Bunny entertain children in front of unknown store at Frontier Village.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/151">
+    <dc:title>Costume character Easter Bunny standing in engine car of Frontier Village Railroad.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Balloons (Novelties); Entertainers; Entertainment; Fictitious characters; Mascots; Railroads
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>The Easter Bunny standing on train platform and engine car of train, holding a balloon.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/152">
+    <dc:title>Costume character Easter Bunny standing near Frontier Village Railroad.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Balloons (Novelties); Children; Entertainers; Entertainment; Fictitious characters; Mascots; Railroads
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>The Easter Bunny standing near train with balloon in one hand and the other hand resting on a child's shoulder. The Frontier Village General Store is in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/153">
+    <dc:title>Costume character Tumbleweed the gold digger at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Tumbleweed stands alone in front of trees.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/154">
+    <dc:title>Costume character Easter Bunny poses with two children in front of Frontier Village Railroad.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Children; Entertainers; Entertainment; Fictitious characters; Mascots; Railroads
+Easter Bunny
+Frontier Village</dc:subject>
+    <dc:description>The Easter Bunny has arms around two children in front of train. The General Store and the Trading Post are in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/155">
+    <dc:title>Frontier Village Band Member.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Music ensembles
+
+Frontier Village</dc:subject>
+    <dc:description>Headshot of unknown named male band member. Man is wearing sequined vest and bow tie and straw boater-style had.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/156">
+    <dc:title>Frontier Village Band Member.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Music ensembles
+
+Frontier Village</dc:subject>
+    <dc:description>Headshot of unknown named male band member. Man is wearing sequined vest and bow tie and straw boater-style had.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/157">
+    <dc:title>Frontier Village Band Member.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Music ensembles
+
+Frontier Village</dc:subject>
+    <dc:description>Headshot of unknown named female band member. Woman is wearing sequined vest and straw boater-style had.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/158">
+    <dc:title>Frontier Village Band Member.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Music ensembles
+
+Frontier Village</dc:subject>
+    <dc:description>Headshot of unknown named male band member. Man is wearing sequined vest and bow tie and straw boater-style had.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/159">
+    <dc:title>Marshall Clyde performing at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde has hand on his gun holster near General Store on Main Street.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+3.5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/160">
+    <dc:title>Frontier Village Band.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Music ensembles
+
+Frontier Village</dc:subject>
+    <dc:description>Possibly the band is The Gaslite Gang, but cannot confirm. Three male members and one female member pose together at Frontier Village behind sign that ends with &quot;hideout.&quot; Two of the male members are holding banjos.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/161">
+    <dc:title>Hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Two outlaws firing guns on Main Street near the Arcade as a crowd of people watches. Plumes of smoke fill the air.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/162">
+    <dc:title>Costume character Theodore the bear at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Theodore stands in front of tree alone.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/163">
+    <dc:title>Marshall Clyde and outlaw performing hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Children; Entertainers; Entertainment; Fictitious characters; Men; Women; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde and outlaw engaged in gunfight in front of Village Candle Shop. Several spectators duck for cover. There are plumes of smoke.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/164">
+    <dc:title>Outlaw performing hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Children; Entertainers; Entertainment; Fictitious characters; Men; Women; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Outlaw falling to ground as if hit by gunshot in front of Village Candle Shop. Spectators watch on, one child has hands over ears. There are plumes of smoke.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/165">
+    <dc:title>Marshall Clyde and outlaw performing hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Children; Entertainers; Entertainment; Fictitious characters; Men; Women; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde walks with gun in hand toward outlaw who is splayed on the ground. Spectators watch on.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/166">
+    <dc:title>Postcard of Frontier Village Railroad Station.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Children; Entertainers; Entertainment; Men; Merry-go-rounds; Railroad stations; Women
+
+Frontier Village</dc:subject>
+    <dc:description>Frontier Village Railroad Station is center. On the left is the Merry-Go-Round. On the right is Main Street. There are people walking around.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5.5 x 9 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/167">
+    <dc:title>Hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Unknown named Marshall stands over prostrate outlaw holding outlaw's hat while crowd looks on. The undertaker is approaching with a wheelbarrow to transport outlaw.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/168">
+    <dc:title>Exit of ferris wheel at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Entertainers; Entertainment; Ferris wheels
+
+Frontier Village</dc:subject>
+    <dc:description>View of exit of Ferris Wheel and part of entrance. The ride is not visible, just trees surrounding ride.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+5 x 7 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/169">
+    <dc:title>Coca-Cola promotion at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Advertisements; Carbonated beverages; Entertainers; Entertainment; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>A man and woman sitting on table in front of a tower of Coca-Cola. The woman is holding a stuffed animal (possibly a sheep) and the man is dressed up as a marshall or sheriff holding a gun in the air above his head. The sign to the left reads &quot;Win this &quot;Tower of Coke.&quot; The sign on the right reads, &quot;Coke its the Real Thing.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/170">
+    <dc:title>Bing Crosby and family at Frontier Village.
+The big blow.</dc:title>
+    <dc:creator>Associated Press</dc:creator>
+    <dc:subject>Amusement parks; Birthday parties; Cakes; Children; Entertainers; Entertainment
+
+Frontier Village</dc:subject>
+    <dc:description>Bing Croby's son celebrating third birthday. Sitting at table with birthday cake and decorations from left to right is Bing Crosby, his son Nathaniel Crosby, wife Cathy Crosby, and daughter Mary Francis Crosby. Nathaniel is blowing out candles on birthday cake as the others look on. Caption on photograph says,&quot;(FX5) San Jose, Calif., Oct. 26--The Big Blow--Bing Crosby's youngest son, Nathaniel, is set to blow out his birthday candles at his third birthday party, held Saturday at Frontier Village in suburban San Jose. With the senior Crosby and son are Mrs. Cathy Crosby and daughter Mary Frances, 4. The group spent the day at Frontier Village, a family amusement park of 33 acres. (APWirephoto)(b21700ho) 1964.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1964-10-26
+1964;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/171">
+    <dc:title>Marshall Westin (Chuck Lowe) at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Westin standing in front of the Marshall's Office with one hand on his belt and the other hand held up to his hat rim. Marshall Westin's name was actually Chuck Lowe. He decided not to be named Marshall Chuck and suggested that all Marshalls, beginning with him, be called Marshall Westin. Westin was a family name for the Lowe family.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1969
+1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/172">
+    <dc:title>Woman performing lasso trick at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Unknown named blond-haired woman performing a lasso trick in Native American outfit.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/173">
+    <dc:title>Burro Pack Train at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Animals; Children; Donkeys; Entertainers; Entertainment; Horses
+
+Frontier Village</dc:subject>
+    <dc:description>Six burros (donkeys) with children riding them following a Frontier Village employee leading on a horse. The employee is looking back and there are trees overhead.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/174">
+    <dc:title>Marshall Clyde at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde sitting on a wooden chest next to a wood-burning stove with one knee up and arm resting on knee. He is holding his gun with both hands.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/175">
+    <dc:title>Frontier Village employee in front of the Silver Dollar Saloon.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Balloons (Novelties); Entertainers; Entertainment; Women
+
+Frontier Village</dc:subject>
+    <dc:description>Unknown named female employee releases balloons in air with promotional flyers attached.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/176">
+    <dc:title>Ferris Wheel at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Children; Entertainers; Entertainment; Ferris wheels; Men; Merry-go-rounds; Railroad stations; Women
+
+Frontier Village</dc:subject>
+    <dc:description>Ferris Wheel with people riding it.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 800 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/177">
+    <dc:title>Unknown named costume character at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Mascots
+
+Frontier Village</dc:subject>
+    <dc:description>Costume character dressed in multi-colored magician-style outfit with arm around unknown named woman. They are standing in front of a booth that has a sign which reads &quot;Technicolor.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1970s
+1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+4 7/8 x 3.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/178">
+    <dc:title>Marshall Clyde performing hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde with a gun firing in both left and right hand. There are plumes of smoke from the guns. The General Store on Main Street is in the background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+3.5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/179">
+    <dc:title>Marshall Clyde and outlaw performing hourly gunfight at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Entertainers; Entertainment; Fictitious characters; Spectators; Wild west shows
+
+Frontier Village</dc:subject>
+    <dc:description>Marshall Clyde in gunfight with outlaw. Marshall Clyde is shooting his gun at the outlaw. The outlaw is shooting back while laying on his back on the ground next to the Village Candle Shop. There are some spectators looking on in front of the Village Candle Shop.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>1960s
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+3.5 x 5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 8-bit RGB. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation>Frontier Village Photographic Album 1</dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/181">
+    <dc:title>Frontier Village Kactus Kong sketch.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Animals in human situations; Apes; Design drawings; Fictitious characters; Gorillas; Sketches; Women
+
+Frontier Village</dc:subject>
+    <dc:description>Original pencil sketch of Frontier Village's costume character Kactus Kong. The drawing is in black and white and is a more realistic-looking ape than the costume character ended up being. In this drawing, Kactus Kong is wearing a white cowboy hat, a white handkerchief around his neck, and a belt slide holster and gun. He is baring his fangs and is holding a woman in his hands with her arms held up in the air.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Design drawings; Sketches</dc:type>
+    <dc:format>image/jpg2000
+22 x 17 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/182">
+    <dc:title>Frontier Village Mad Millie wanted poster.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Cactus; Caricatures; Clothing &amp; Dress; Cowgirls; Criminals; Design drawings; Fictitious characters; Men; Rifles; Sketches; Women
+
+Frontier Village</dc:subject>
+    <dc:description>One of several Frontier Village wanted posters. This one features a character named Mad Millie. She is standing with a rifle in her hands with one of her feet propped up on a man lying on the ground. She is wearing a western-style dress, cowboy boots with spurs, and a cowboy hat. In the background is a cactus and a cow skull. Above the sketch of Mad Millie it says &quot;Wanted.&quot; Underneath the sketch it says &quot;alias Mad Millie reward 50 buckskins.&quot; Also, there is a narrative that explains Mad Millie's background.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Design drawings; Sketches</dc:type>
+    <dc:format>image/jpg2000
+15 x 14 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/183">
+    <dc:title>Notice of new marshal at Frontier Village.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Caricatures; Cowboys; Design drawings; Law enforcement; Fictitious characters; Men; Police; Sketches
+
+Frontier Village</dc:subject>
+    <dc:description>This is a Frontier Village poster with a character sketch of the new marshal, Marshal Westin. Above the sketch the poster states &quot;notice of new marshall&quot; and underneath the sketch it states &quot;clean-cut, red-blooded.&quot; He is wearing a cowboy hat. Also, below the sketch is a narrative which describes Marshal Westin's background and has his signature at the bottom.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Design drawings; Sketches</dc:type>
+    <dc:format>image/jpg2000
+15 x 14 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/184">
+    <dc:title>Frontier Village horse thief wanted poster.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Caricatures; Criminals; Design drawings; Fictitious characters; Men; Sketches
+
+Frontier Village</dc:subject>
+    <dc:description>This is a Frontier Village horse thief wanted poster. The name of the horse thief is Kid Campbell. The poster has a sketch of Kid Campbell in the middle and the writing surrounding the sketch says &quot;Wanted! Dead or Alive $5000 reward Horse thief Kid Campbell Mouse Ear - Mike, Wild Red, Hooknose Blackie, Tulsa Tom, Bogus Joe and a few others.&quot; The sketch depicts a man with a hat and scruffy beard and moustache.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Design drawings; Sketches</dc:type>
+    <dc:format>image/jpg2000
+15.5 x 14 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/185">
+    <dc:title>Frontier Village free admission flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Ephemera; Fictitious characters; Holidays; Promotional materials
+Santa Claus
+Frontier Village</dc:subject>
+    <dc:description>This is a Frontier Village promotional flyer offering free admission during the month of December. It is a cream colored flyer with red and green writing. There is a drawing of Santa Claus riding in a train. Underneath the flyer it states as an extra bonus Frontier Wonderland club members are entitled &quot;to discounts on all rides and attractions.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+11 x 8.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/186">
+    <dc:title>Frontier Village foldout map.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Ephemera; Maps; Picnic grounds
+
+Frontier Village</dc:subject>
+    <dc:description>This Frontier Village foldout map describes the rides and attractions as well as food, refreshments, and picnic areas that the park has to offer. The map is white and maroon with black lettering.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1965
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+4 x 12 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/187">
+    <dc:title>Frontier Village foldout map back side.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Amusement rides; Ephemera; Maps; Picnic grounds
+
+Frontier Village</dc:subject>
+    <dc:description>This is the back side of a Frontier Village foldout map. It has four panels. On the first panel it provides details on admission and tickets. On the second panel it offers details on entertainment such as gunfights and also information regarding lost and found, first aid, and lost children. On the third panel is a map of the San Francisco Bay area and Frontier Village's location and hours. The fourth panel says &quot;welcome to Frontier Village one of the nation's most unique entertainment centers.&quot; The foldout is white and maroon with black and white lettering.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1965
+1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970;</dc:date>
+    <dc:type>Image
+Maps</dc:type>
+    <dc:format>image/jpg2000
+4 x 12 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/188">
+    <dc:title>Frontier Village Wonderland Club flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Caricatures; Children; Ephemera; Fictitious characters; Indigenous peoples; Law enforcement; Men; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>This is a Frontier Village Wonderland Club flyer. The flyer has a cartoon depiction of a marshal with a bubble over his head which says &quot;hey podners! for summer fun Frontier Village is now open every day!&quot; He is holding open his vest which contains multiple buttons that say &quot;fun&quot; &quot;games&quot; &quot;gunfights,&quot; etc. Behind the marshal are drawings of children and a Native American with a bow and arrow. Below the marshal the flyer says &quot;free membership cards available at your personnel or recreation office today. No fees! No dues? start enjoying greater value &quot;&quot;&quot;. where fun come first and fast.&quot;</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/189">
+    <dc:title>Frontier Wonderland Club Family Day Flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Caricatures; Ephemera; Events; Indigenous peoples; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>Yellow flyer advertising Frontier Village's fourth annual Frontier Wonderland Club Family Day. The flyer has a cartoon drawing of a Native American in front of a camp fire and tipis as well as a wooden fort. The flyer also enumerates the various activities that can be enjoyed at Frontier Village such as private picnic areas, gunfights, as well as rides such as the Indian war canoes, Thriller Stampede, Ferris wheel, etc.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1966-07-30
+1966;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/190">
+    <dc:title>Frontier Village Wonderland Club flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Caricatures; Ephemera; Horses; Men; Promotional materials; Stagecoaches; Women
+
+Frontier Village</dc:subject>
+    <dc:description>This is a Frontier Village Wonderland Club flyer. It is green, white, and blue and is a cartoon drawing of a horse drawn stagecoach being driven by one man. There are two passengers inside the stage coach looking out and next to the coach is a man riding a horse. There is a bubble leading up from the mouth of the driver that states &quot;yippee!! Frontier Village now open Saturdays, Sundays, and holidays.&quot; Also has information on the bottom regarding the way in which to join the Wonderland Club.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+11 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/191">
+    <dc:title>Frontier Wonderland Club unlimited rides flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Amusement rides; Children; Ephemera; Events; Ferris wheels; Men; Promotional materials; Women
+
+Frontier Village</dc:subject>
+    <dc:description>This Frontier Wonderland Club flyer is advertising unlimited rides for club members for labor day weekend (does not specify date). The flyer is orange, white, and brown. In the upper left hand corner is a black and white photograph of a couple riding the Ferris wheel. In the bottom right hand corner is a black and white photograph of a mother and young girl riding the Antique Autos ride.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+11 x 8.5 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/192">
+    <dc:title>Frontier Village direct mail marketing flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Direct mail; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>This direct mail marketing flyer offers group discounts for groups ranging from 10 to 2000 people. It is styled as a wanted poster and delineates the main features and amusements that Frontier Village has to offer. The flyer is white, with a brownish trim and black writing. The bottom of the flyer is detachable and is meant to be mailed in four days prior to a particular group's planned visit. It asks for details such as date and time of arrival, name of group, group plan desired, number of persons, and method of payment.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975;</dc:date>
+    <dc:type>Image
+Advertisments; Direct mail</dc:type>
+    <dc:format>image/jpg2000
+12 x 9 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/193">
+    <dc:title>United Press International Telephoto of young boy and Native American.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Clothing &amp; dress; Children; Dance; Dancers; Indigenous peoples; Men; Tipis
+Eagle dance; UPITN Corporation
+Frontier Village</dc:subject>
+    <dc:description>This photograph is identified with what appears to be a United Press International index number which is listed as SXP052206S. This is written along with the caption at the bottom of the photograph on the front. The exact location is unknown but it is somewhere in San Jose, California. The image is of a two year old boy named James Firguson of Mountain View, California, learning the eagle dance from a Native American from the Kiowa named Lanny Quoetone. Both are standing in front of a tipi. James Firguson is facing Lanny Quoetone and is mimicking his movement. Lanny Quoetone is bending slightly with arms outstretched as if he way flying and he is wearing traditional Native American clothing.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1964-05-22
+1964;</dc:date>
+    <dc:type>Image
+Photographic prints</dc:type>
+    <dc:format>image/jpg2000
+8 x 7 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/194">
+    <dc:title>Frontier Village employee picnic flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Ephemera; Events; Maps; Men
+
+Frontier Village</dc:subject>
+    <dc:description>This is the outside of a Frontier Village employee picnic flyer. On the front of the flyer are three men dressed in western clothing. Above the men it says &quot;wanted,&quot; and below them it says &quot;Frontier Village amusement park.&quot; On the back side of the flyer are directions to Frontier Village, a map, and the address and phone number. This flyer is black and white.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1970-08-23
+1970;</dc:date>
+    <dc:type>Image
+Ephemera</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/195">
+    <dc:title>Frontier Village employee picnic flyer.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Amusement parks; Children; Cross dressing; Ephemera; Events; Men; Women
+
+Frontier Village</dc:subject>
+    <dc:description>This is the inside of a Frontier Village employee picnic flyer. In the middle is a picture of a man lying on his side with his head propped up on his arm. He is dressed like a woman and is wearing a flowered mini dress and a wig.  Underneath him is a caption that says &quot;Miss Picnic 1970.&quot; There are also four smaller pictures surrounding the middle picture. Clockwise they are:  a man playing a banjo, a young boy on a carousel, a young girl eating a snow cone, and picnic table with men and women seated at it eating.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1970-08-23
+1970;</dc:date>
+    <dc:type>Image
+Ephemera</dc:type>
+    <dc:format>image/jpg2000
+8 x 10 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/196">
+    <dc:title>Frontier Village Marketing material.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>This is the back side of  promotional flyer. The flyer says &quot;Howdy! You have discovered a helium balloon that was released from Frontier Village amusement park. As a reward for your discovery, we will send you complimentary admission and ride tickets for two persons. Just fill out the information below and mail the card today.  Your tickets to Frontier Village, where you will find 'The Fastest Fun in the West,' will be mailed to you.  Thank you.&quot; Below is a short form requesting name, address, location of discovery, and the date. It is blue with black lettering.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1975-12-31
+1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+3 x 6 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/197">
+    <dc:title>Frontier Village Marketing material.
+</dc:title>
+    <dc:creator>Unknown</dc:creator>
+    <dc:subject>Advertisements; Amusement parks; Promotional materials
+
+Frontier Village</dc:subject>
+    <dc:description>This is the front side of a marketing flyer. It indicats that the postage has been paid. It is addressed to Frontier Village and says &quot;business reply mail.&quot; It is blue with black lettering.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>1975-12-31
+1975;</dc:date>
+    <dc:type>Image
+Advertisements</dc:type>
+    <dc:format>image/jpg2000
+3 x 6 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/198">
+    <dc:title>Frontier Village Victorian train station.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Children; Railroad stations; Railroads
+
+Frontier Village</dc:subject>
+    <dc:description>This black and white photograph shows the front of Frontier Village's Victorian train station. Also shown, is the front landscaping with a path leading up to the station and flowers and grass on either side. There are two boys with their backs to the camera and the train in the background with people in it.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1970
+</dc:date>
+    <dc:type>Image
+Photographic Prints</dc:type>
+    <dc:format>image/jpg2000
+7 x 9 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose--California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/199">
+    <dc:title>Marshal Clyde Adamson under KPIX 5 television camera at Frontier Village.
+</dc:title>
+    <dc:creator></dc:creator>
+    <dc:subject>Amusement parks; Cowboy hats; Cowboys; Fictitious characters; Firearms; Law enforcement officers; Men; Motion picture cameras
+
+Frontier Village</dc:subject>
+    <dc:description>Marshal Clyde is standing near an unknown named deputy at Frontier Village somewhere on Main Street. Both men are standing underneath an cameraman elevated in the air. Both men are wearing their Frontier Village costumes. Either a commericial or television promotion of some kind is being filmed. The camera is attached to a KPIX 5 station wagon. KPIXl is a San Francisco CBS affiliate.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>circa 1963
+</dc:date>
+    <dc:type>Image
+Photographic Prints</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose--California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/200">
+    <dc:title>Marshall Clyde Adamson and Ed Hutton with one million guests winners.
+</dc:title>
+    <dc:creator>Randall, Hal (photographer)</dc:creator>
+    <dc:subject>Amusement parks; Awards; Baby carriages; Bouquets; Children; Cowboy hats; Fictitious characters; Law enforcement officers; Men; Women
+
+Frontier Village</dc:subject>
+    <dc:description>Marshal Clyde Adamson and Ed Hutton are standing next to the family who were designated as the one millionth guests. Standing next to Marshal Clyde is a women with two children and there is a third man who may or may not be her husband. Both children are boys, one is around 10 years old and the other is 3 or 4 and is in a stroller. The women is being draped in a sash that says one million on it and is also being presented with a bouquet of flowers.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor></dc:contributor>
+    <dc:date>circa 1967
+</dc:date>
+    <dc:type>Image
+Photographic Prints</dc:type>
+    <dc:format>image/jpg2000
+10 x 8 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 1200 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.&quot;</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language></dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose--California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+  <rdf:Description about="http://10.204.254.43:80/cdm/ref/collection/sjplfv/id/201">
+    <dc:title>Architectural model of Frontier Village.
+</dc:title>
+    <dc:creator>George S. Nolte and Associates (architect &amp; designer)</dc:creator>
+    <dc:subject>Amusement parks; Architectural models
+George S. Nolte and Associates;
+Frontier Village</dc:subject>
+    <dc:description>This is an architectural model for a proposed expansion of the park. It shows the park and the roads that surround it.</dc:description>
+    <dc:publisher></dc:publisher>
+    <dc:contributor>Frontier Village (collector)</dc:contributor>
+    <dc:date>circa 1973
+1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978;</dc:date>
+    <dc:type>Image
+Architectural models</dc:type>
+    <dc:format>image/jpg2000
+4 x 6 in.
+Scanned with Epson Perfection V500 Photo Scanner as a 600 dpi TIFF image in 16-bit Grayscale. Compressed to 8-bit and JPEG format using Photoshop CS3.</dc:format>
+    <dc:identifier></dc:identifier>
+    <dc:source>Frontier Village Collection, 1961-1980</dc:source>
+    <dc:language>eng</dc:language>
+    <dc:relation></dc:relation>
+    <dc:coverage>San Jose -- California
+Wild West in American history</dc:coverage>
+    <dc:rights>The San Jose Public Library California Room can only claim physical ownership of the collection. Users are responsible for satisfying any claims of the copyright holder. Permission to copy or publish any portion of San Jose Public Library California Room collection must be given by the San Jose Public Library California Room. For more information on copyright or permissions for this image, please contact the California Room: http://www.sjlibrary.org/research/special/ca/contacts_index.htm</dc:rights>
+  </rdf:Description>
+</rdf:RDF>
