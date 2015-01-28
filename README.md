@@ -7,35 +7,35 @@ To demonstrate this, we built a web application that supported the following ope
 -  Recommend related searches
 -  Provide faceted search to refine the collections further
 
-Service Interfaces:
+##### Service Interfaces:
 
-##### Search for all items in library
+###### Search for all items in library
 <pre><code>URL: GET http://10.225.93.250:8080/ohack2014/sjpl/v1/search?key=value&api_key=KEY
 Supported keys: keyword, collection, location (comma separated longitude, latitude values), 
                 year (hyphen separated range), page, limit
 </code></pre>
                 
 
-##### Related search items for a keyword query
+###### Related search items for a keyword query
 <pre><code>URL: GET http://10.225.93.250:8080/ohack2014/sjpl/v1/relatedsearch?key=value&api_key=KEY
 Supported keys: keyword
 </code></pre>
 
 
-##### Get all the collections
+###### Get all the collections
 <pre><code>URL: GET http://10.225.93.250:8080/ohack2014/sjpl/v1/collections?&api_key=KEY
 </code></pre>
 
-##### Get the item details with resource id
+###### Get the item details with resource id
 <pre><code>URL: GET http://10.225.93.250:8080/ohack2014/sjpl/v1/items/{item_id}?&api_key=KEY
 </code></pre>
 
-##### Update the item details with reource id
+###### Update the item details with reource id
 <pre><code>URL: PUT http://10.225.93.250:8080/ohack2014/sjpl/v1/items/{item_id}?&api_key=KEY
 Data: JSON string of key value pair
 </code></pre>
 
-##### Get the histogram of the items
+###### Get the histogram of the items
 <pre><code>URL: GET http://10.225.93.250:8080/ohack2014/sjpl/v1/histogram?key=value&api_key=KEY
 Supported keys: keyword, collection, location (comma separated longitude, latitude values), 
                 year (hyphen separated range)
