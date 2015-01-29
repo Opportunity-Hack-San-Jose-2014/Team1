@@ -16,7 +16,7 @@ Supported keys: keyword, collection, location (comma separated longitude, latitu
 </code></pre>
                 
 
-###### Related search items for a keyword query
+###### Related search items for a keyword query (in progress)
 <pre><code>URL: GET http://&lt;server-name&gt;/ohack2014/sjpl/v1/relatedsearch?key=value&api_key=KEY
 Supported keys: keyword
 </code></pre>
