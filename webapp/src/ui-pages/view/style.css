@@ -1,0 +1,68 @@
+.dg-body{
+	background-color: #e5e5e5;
+}
+
+.dg-head{
+	height: 75px;
+	padding-left: 100px;
+	background: url('/public/images/kinglibrary_logo.png') no-repeat #c0392b;
+	color: #fff;
+}
+
+header{
+	font-size: 40px;
+	line-height: 75px;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+}
+header a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+header .sub{
+	font-size: 14px;
+	vertical-align: middle;
+	padding-left: 10px;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}
+
+footer{
+	padding: 10px;
+	color: #333;
+	border: 1px solid #ddd;
+	font-size: 11px;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}
+
+.mainlft{
+	background-color: #fff;
+	padding-bottom: 30px;
+}
+
+.mainrt{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.bk-src{
+	margin: 10px 0;
+	display: inline-block;
+	text-decoration: none;
+}
+.itm-det{
+	margin: 10px 0;
+}
+
+.itm-img{
+	max-width: 100%;
+}
+
+.alldata{
+	border: 1px solid #ddd;
+	margin: 10px 0;
+}

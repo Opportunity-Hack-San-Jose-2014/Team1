@@ -1,0 +1,228 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <title>San Jose Public Library</title>
+
+    <!-- Bootstrap core CSS -->
+    <!--<link href="/public/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">-->
+
+    <!-- Custom styles for this template -->
+    <link href="/public/home/css/style.css" rel="stylesheet">
+
+    <!-- Resources -->
+    <link href="fonts/font-awesome-4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/public/home/css/animate.css" rel="stylesheet">
+    <link href="/public/home/css/lightbox.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,100' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if lt IE 10]>
+      <style>.transparent { opacity: 1; }</style>
+    <![endif]-->
+  </head>
+
+  <body class="body-red">
+    <div class="navbar">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-inverse-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <img class="block-img navbar-brand" src="/public/home/img/logo.gif">
+        <a class="navbar-brand" href='#'>San Jose Public Library</a>
+      </div>
+      <div class="navbar-collapse collapse navbar-inverse-collapse">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="#">Get Involved</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">For Developers<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">API Index</a></li>
+              <li><a href="#">Sample Code and Libraries</a></li>
+              <li><a href="#">Apps and Project Ideas</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#">Contact</a></li>
+          <li class="dropdown">
+              <a href="#" id="account" name="account" class="dropdown-toggle" data-toggle="dropdown">Account<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/logout">Log in</a></li>
+              <li><a href="#">Sign Up</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container">
+    
+      <div class="margin"></div>
+      
+      <!-- About Us -->
+      <div class="row" id="about">
+        <div class="col-md-4 col-sm-8">
+          <img class="img-responsive block-img fadingIn transparent" src="/public/home/img/1.jpg" alt="...">
+        </div>
+        <div class="col-md-4 col-sm-8">
+          <div class="row">
+            <div class="col-md-8 col-sm-8">
+              <div class="block-hf block-sm fadingIn transparent">
+                <h2><u><img class="block-img" src="/public/home/img/logo.gif">San Jose Public Library.</u></h2>
+                <p>
+                  Documenting the history of the Santa Clara Valley from its agricultural beginnings to the high-tech boom 
+                </p>
+                <a href="/search" class="btn btn-color"><i class="fa fa-info-circle"></i> Explore...</a>
+              </div>
+            </div>
+          </div> <!-- / .row -->
+          <div class="row">
+            <div class="col-md-4 col-sm-4">
+              <img class="img-responsive block-img fadingIn transparent" src="/public/home/img/2.jpg" alt="...">
+            </div>
+            <div class="col-md-4 col-sm-4">
+              <img class="img-responsive block-img fadingIn transparent" src="/public/home/img/3.jpg" alt="...">
+            </div>
+          </div> <!-- / .row -->
+        </div>
+      </div> <!-- / .row -->
+        
+            <!-- Main Features -->
+      <div class="row" id="features">
+        <div class="col-md-2 col-sm-4">
+          <img class="img-responsive block-img fadingIn transparent" src="/public/home/img/4.png" alt="...">
+        </div>
+        <div class="col-md-2 col-sm-4">
+          <div class="block block-sm bg-color fadingIn transparent">
+            <h3>A Rich API for Developers</h3>
+            <p>Build apps that use the library’s data in innovative ways.</p>
+          </div>
+        </div>
+        <div class="col-md-2 col-sm-4">
+          <img class="img-responsive block-img fadingIn transparent" src="/public/home/img/5.jpg" alt="...">
+        </div>
+        <div class="col-md-2 col-sm-4">
+          <div class="block block-sm bg-color fadingIn transparent">
+            <h3>A wealth of knowledge.</h3>
+            <p>Explore items from archives, libraries and museums.</p>
+          </div>
+        </div>
+      </div> <!-- / .row-->
+      <div class="row">
+       
+      </div> <!-- / .row -->
+      <!-- Portfolio -->
+      <div class="row" id="portfolio">
+         <div class="col-md-4 col-sm-8">
+          <div class="block block-lg bg-color-dark fadingIn transparent">
+            <h2>King Library Digital Collections</h2>
+            <p class="text-justify">
+              The King Library Digital Collections represent rare and unique materials held by San Jose State University Special Collections and the San Jose Public Library’s California Room. The collections document the history of the Santa Clara Valley from its agricultural beginnings to the high-tech boom and formation of the Silicon Valley. The range of subjects covered include local politics, social and cultural traditions, education, local business and industry, and historical events. This digital library will stimulate discovery of the rich and diverse resources of the library and will promote new scholarship from our community.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-8">
+          <div class="fadingIn transparent">
+            <!-- Image Carousel -->
+            <div id="example-slideshow" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#example-slideshow" data-slide-to="0" class="active"></li>
+                <li data-target="#example-slideshow" data-slide-to="1"></li>
+                <li data-target="#example-slideshow" data-slide-to="2"></li>
+              </ol>
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner">
+                <div class="item active">
+                  <img class="img-responsive block-img" src="/public/home/img/12.jpg" alt="...">
+                </div>
+                <div class="item">
+                  <img class="img-responsive block-img" src="/public/home/img/13.jpg" alt="...">
+                </div>
+                <div class="item">
+                  <img class="img-responsive block-img" src="/public/home/img/14.jpg" alt="...">
+                </div>
+              </div>
+              <!-- Controls -->
+              <a class="carousel-arrow carousel-arrow-prev" href="#example-slideshow" data-slide="prev">
+                <i class="fa fa-angle-left"></i>
+              </a>
+              <a class="carousel-arrow carousel-arrow-next" href="#example-slideshow" data-slide="next">
+                <i class="fa fa-angle-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div> <!-- / .row -->
+      
+      <!-- Contact Us -->
+      <div class="row" id="contact">
+        <div class="col-md-4 col-sm-8">
+          <div class="block block-lg bg-color fadingIn transparent">
+            <h2>Contact Us</h2>
+            <p>Please fill out the form below to send us your message.</p>
+            <form role="form">
+              <div class="row form-group">
+                <div class="col-md-4 col-sm-4 col-xs-4">
+                  <label for="email" class="sr-only">Your email address</label>
+                  <input type="email" class="form-control" id="email" placeholder="E-mail" data-original-title="" title="">
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-4">
+                  <label for="name" class="sr-only">Your name</label>
+                  <input type="text" class="form-control" id="name" placeholder="Full Name" data-original-title="" title="">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="message" class="sr-only">Your message</label>
+                <textarea class="form-control" rows="3" id="message" placeholder="Message"></textarea>
+              </div>
+              <button type="submit" class="btn btn-block btn-glass"><i class="fa fa-check"></i> Send It</button>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-8">
+            <div class="block-address fadingIn transparent">
+              <div class="google-maps">
+               <iframe width="500" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=San Jose,+CA,+United+States&amp;aq=0&amp;sspn=0.158751,0.338173&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%A1%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F,+%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%A8%D1%82%D0%B0%D1%82%D1%8B+%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8&amp;t=m&amp;ll=37.3360114,-121.8858392&amp;spn=0.023745,0.030041&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=San Jose,+CA,+United+States&amp;aq=0&amp;oq=san+f&amp;sll=37.3360114,-121.8858392&amp;sspn=0.158751,0.338173&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%A1%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F,+%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%A8%D1%82%D0%B0%D1%82%D1%8B+%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8&amp;t=m&amp;spn=0.023745,0.030041&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+              </div>
+              <div class="mail-address">
+                <p>150 E. San Fernando St. , San Jose CA 95112</p>
+              </div>
+            </div>
+        </div>
+      </div> <!-- / .row -->
+      <div class="row">
+        <div class="col-md-8 col-sm-8">
+          <p class="text-center">Copyright 2014 - The San Jose Public Library</p>
+        </div>
+      </div> <!-- / .row -->
+    </div> <!-- / .container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/public/home/js/bootstrap.min.js"></script>
+    <script src="/public/home/js/scrolltopcontrol.js"></script>
+    <script src="/public/home/js/lightbox-2.6.min.js"></script>
+    <script src="/public/home/js/waypoints.min.js"></script>
+    <script src="/public/home/js/custom.js"></script>
+  </body>
+</html>

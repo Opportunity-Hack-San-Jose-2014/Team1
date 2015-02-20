@@ -1,0 +1,28 @@
+.dg-head{
+	height: 75px;
+	padding-left: 100px;
+	background: url('/public/images/kinglibrary_logo.png') no-repeat #343434;
+	color: #fff;
+}
+
+header{
+	font-size: 40px;
+	line-height: 75px;
+}
+
+header .sub{
+	font-size: 14px;
+	vertical-align: middle;
+	padding-left: 10px;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}
+
+footer{
+	padding: 10px;
+	color: #333;
+	border: 1px solid #ddd;
+	font-size: 11px;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}

@@ -1,0 +1,10 @@
+{
+    "fileWriter": {
+        "outputDir": "static",
+        "fingerprintsEnabled": true
+    },
+    "minify": false,
+    "resolveCssUrls": true,
+    "bundlingEnabled": false,
+    "cacheProfile": "development"
+}

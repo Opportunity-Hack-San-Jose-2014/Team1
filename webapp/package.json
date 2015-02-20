@@ -1,0 +1,15 @@
+{
+  "name": "ohackexp",
+  "description": "ohack express application",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "marko": "~1.2.20",
+    "node-rest-client": "~1.0.3",
+    "browser-refresh": "~1.1.1",
+    "browser-refresh-taglib": "~1.0.2",
+    "optimizer": "1.7",
+    "marko-widgets": "~1.1.5"
+  }
+}

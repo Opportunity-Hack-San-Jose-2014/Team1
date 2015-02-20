@@ -1,0 +1,155 @@
+.dg-head{
+	height: 75px;
+	padding-left: 100px;
+	background: url(../../../public/images/kinglibrary_logo-e3622d43.png) no-repeat #c0392b;
+	color: #fff;
+}
+
+header{
+	font-size: 40px;
+	line-height: 75px;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+}
+
+header a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+header .sub{
+	font-size: 14px;
+	vertical-align: middle;
+	padding-left: 10px;
+	letter-spacing: 0.1em;
+	font-weight: lighter;
+}
+
+.dg-body ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.dg-body > .row{
+	background-color: #eaeaea;
+}
+
+.dg-body .mainlft{
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.dg-body .mainrt{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.dg-body .dg-auto{
+	position: absolute;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	padding: 10px 0;
+	z-index: 1;
+	margin-top: 3px;
+	left: 15px;
+	right: 15px;
+	display: none;
+}
+
+.dg-body .dg-auto li a{
+	padding: 0 10px;
+	display: block;
+}
+
+.dg-body .dg-auto li a:hover{
+	background-color: #ccc;
+	text-decoration: none;
+}
+
+.dg-src-col{
+	margin: 0;
+}
+
+.map-canvas-w{
+	margin-top: 20px;
+}
+
+#map-canvas{
+	height: 250px;
+}
+
+#slider{
+	margin-top: 20px;
+}
+
+#cols-title{
+	margin: 15px 0;
+	color: #c0392b;
+	font-size: 25px;
+}
+
+#cols{
+	background-color: #333;
+	margin-top: 20px;
+	color: #fff;
+}
+
+.dg-rel, .dg-rel-col{
+	background-color: #eaeaea;
+	color: #777;
+	display: none;
+}
+
+.dg-rel .title, .dg-rel-col .title{
+	font-weight: bold;
+}
+
+.dg-rel ul, .dg-rel-col ul{
+	list-style: none;
+	padding: 0;
+	margin: 10px 0 0 0;
+}
+
+.dg-rel-col{
+	margin-top: 30px;
+}
+
+.dg-rel-col li{
+	margin-bottom: 20px;
+}
+
+.dg-rel-col a{
+	text-decoration: none;
+	text-align: center;
+	width: 210px;
+	display: block;
+	color: #777;
+}
+
+.dg-rel-col img{
+	max-width: 200px;
+	max-height: 200px;
+	border: 2px solid #333;
+}
+
+footer{
+	padding: 10px;
+	color: #333;
+	border: 1px solid #ddd;
+	font-size: 11px;
+	font-weight: lighter;
+	letter-spacing: 0.1em;
+}
+
+#dg-docs img{
+	width: 25%;
+	padding: 2px;
+}
+
+#dg-docs img:hover{
+	padding: 0;
+}
