@@ -50,9 +50,9 @@ public class SpendADayService {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String getDocuments() {
 		MongoClient mongoClient = MongoClientProvider.getMongoClient();
-		DB db = mongoClient.getDB("test");
-		DBCollection coll = db.getCollection("test");
-		DBCursor cursor = coll.find();
+		DB db = mongoClient.getDB("ohack2014");
+		DBCollection coll = db.getCollection("items");
+		DBCursor cursor = coll.find().limit(10);
 		String serialize = JSON.serialize(cursor);
 
 		return serialize;
@@ -134,13 +134,12 @@ public class SpendADayService {
 			if (collection != null && !collection.isEmpty()) {
 				query.put("collection", collection);
 			}
-			
 			if (!(page > 0)) {
 				page = 0;
 			}
 			
 			if (!(limit > 0)) {
-				limit = 40;
+				limit = 500;
 			}
 			
 			DBCursor cursor;
@@ -162,8 +161,9 @@ public class SpendADayService {
 						doc.put("image", dbObj.getString("image_url"));
 						doc.put("lat", dbObj.getString("lat"));
 						doc.put("lon", dbObj.getString("lon"));
-						doc.put("year", dbObj.getString("date"));
+						doc.put("year", dbObj.getString("date"));						//doc.put("location", "Fremont,CA");
 						doc.put("id", dbObj.getString("id"));
+						doc.put("location", dbObj.getString("location"));
 						docs.put(doc);
 						autoComplete.add(dbObj.getString("title"));
 						limit--;
@@ -297,28 +297,67 @@ public class SpendADayService {
 			@Context HttpServletResponse responseContext) {
 		boolean failure = false;
 		MongoClient mongoClient = MongoClientProvider.getMongoClient();
-		DB db = mongoClient.getDB("test");
-		DBCollection coll = db.getCollection("test");
+		DB db = mongoClient.getDB("ohack2014");
+		DBCollection coll = db.getCollection("items");
 		DBObject query = new BasicDBObject();
 		query.put("id", Integer.parseInt(itemId));
 		DBCursor cursor = coll.find(query);
 		
 		JSONArray collections = new JSONArray();
+		String image ="";
 		
 		try {
 			while (cursor.hasNext()) {
 				BasicDBObject dbObj = (BasicDBObject) cursor.next();
 				JSONObject collection = new JSONObject();
-				collection.put("title", dbObj.getString("title"));
-				collection.put("image", dbObj.getString("image"));
-				collection.put("description", dbObj.getString("description"));
-				collection.put("creator", dbObj.getString("creator"));
-				collection.put("contributor", dbObj.getString("contibutor"));
-				collection.put("language", dbObj.getString("language"));
-				collection.put("year", dbObj.getString("date"));
-				collection.put("cataloger", dbObj.getString("cataloger"));
-				collection.put("location", dbObj.getString("location"));
+				collection.put("key", "title");
+				collection.put("value", dbObj.getString("title"));
+				
+				JSONObject collection1 = new JSONObject();
+				collection1.put("key", "description");
+				collection1.put("value", dbObj.getString("description"));
+				
+				JSONObject collection2 = new JSONObject();
+				collection2.put("key", "creator");
+				collection2.put("value", dbObj.getString("creator"));
+				
+				JSONObject collection3 = new JSONObject();
+				collection3.put("key", "contributor");
+				collection3.put("value", dbObj.getString("contributor"));
+				
+				JSONObject collection4 = new JSONObject();
+				collection4.put("key", "language");
+				collection4.put("value", dbObj.getString("language"));
+				
+				JSONObject collection5 = new JSONObject();
+				collection5.put("key", "year");
+				collection5.put("value", dbObj.getString("year"));
+				
+				JSONObject collection6 = new JSONObject();
+				collection6.put("key", "location");
+				collection6.put("value", dbObj.getString("location"));
+				
+				JSONObject collection7 = new JSONObject();
+				collection7.put("key", "cataloger");
+				collection7.put("value", dbObj.getString("cataloger"));
+				
+//				collection.put("image", dbObj.getString("image_url"));
+				image = dbObj.getString("image_url");
+//				collection.put("description", dbObj.getString("description"));
+//				collection.put("creator", dbObj.getString("creator"));
+//				collection.put("contributor", dbObj.getString("contibutor"));
+//				collection.put("language", dbObj.getString("language"));
+//				collection.put("year", dbObj.getString("date"));
+//				collection.put("cataloger", dbObj.getString("cataloger"));
+//				collection.put("location", dbObj.getString("location"));
 				collections.put(collection);
+				collections.put(collection1);
+				collections.put(collection2);
+				collections.put(collection3);
+				collections.put(collection4);
+				collections.put(collection5);
+				collections.put(collection6);
+				collections.put(collection7);
 			}
 		} catch (JSONException e) {
 			failure = true;
@@ -331,7 +370,8 @@ public class SpendADayService {
 	try {
 		if (!failure) {
 			response.put("ack", "success");
-			response.put("collections", collections);
+			response.put("doc", collections);
+			response.put("image", image);
 		} else {
 			response.put("ack", "failure");
 		}
